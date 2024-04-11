@@ -1,5 +1,6 @@
 # LLM-RUNEX-DSP-Orchestration
 KPI
+<img width="1326" alt="Screenshot 2024-04-12 at 00 02 56" src="https://github.com/sascristian/LLM-RUNEX-DSP-Orchestration/assets/27587446/09c66a40-b109-43fe-9ee3-f948125faf48">
 
 
 1. Definirea obiectivelor și a cazurilor de utilizare
